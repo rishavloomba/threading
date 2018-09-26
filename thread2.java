@@ -1,3 +1,4 @@
+//multithreading
 import java.lang.*;
 class thread2 extends Thread
 {
